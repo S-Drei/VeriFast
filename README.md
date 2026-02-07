@@ -57,4 +57,4 @@ Smart contracts and integrations are represented at a conceptual level due to ti
 
 ---
 
-Built for the Flare Hackathon.
+Built for the ETH Oxford Hackathon.
