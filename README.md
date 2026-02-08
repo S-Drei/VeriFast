@@ -58,11 +58,20 @@ Smart contracts and integrations are represented at a conceptual level due to ti
 
 ## Built on Flare
 
-### Network:
-Flare Testnet Coston2
+- **Network:** Coston2 Testnet
+- **Integrations:** Flare Data Connector (FDC)
+- **Demo:** [Watch the demo video](LINK_TO_YOUR_VIDEO)
+- **Setup:** 
+  1. Clone the repo
+  2. Install dependencies: `npm install`
+  3. Deploy contract on Flare Coston2 using MetaMask
+  4. Interact with the contract via Remix or your frontend
 
-### Integrations:
-Flare Data Connector FDC
+- **Smart Contracts:**
+  - VeriFastMortgage.sol
+  - Deployed Contract Address: 0xYourContractAddress
+  - Explorer link: [Coston2 Explorer](https://explorer.coston2.flare.network/address/0xYourContractAddress)
+
 
 ---
 
