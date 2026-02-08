@@ -72,6 +72,13 @@ Smart contracts and integrations are represented at a conceptual level due to ti
   - Deployed Contract Address: 0xdE25697F0CAd864fdAd35fBf0D05009B3FA47E13
   - Explorer link: [Routescan](https://testnet.routescan.io/address/0xdE25697F0CAd864fdAd35fBf0D05009B3FA47E13/contract/114/code)
 
+### Environment Variables
+
+To deploy and interact with the contracts, create a `.env` file based on `.env.example`:
+
+- `PRIVATE_KEY` — Your wallet private key (used to sign transactions). **Do not commit this key.**
+- `RPC_URL` — The URL of the Flare Coston2 Testnet RPC.
+
 
 ---
 
