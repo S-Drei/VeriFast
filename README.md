@@ -60,7 +60,7 @@ Smart contracts and integrations are represented at a conceptual level due to ti
 
 - **Network:** Coston2 Testnet
 - **Integrations:** Flare Data Connector (FDC)
-- **Demo:** [Watch the demo video](LINK_TO_YOUR_VIDEO)
+- **Demo:** [Watch the demo video](https://www.youtube.com/watch?v=SPwOO3e7Lhw)
 - **Setup:** 
   1. Clone the repo
   2. Install dependencies: `npm install`
