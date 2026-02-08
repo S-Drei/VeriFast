@@ -65,7 +65,7 @@ Smart contracts and integrations are represented at a conceptual level due to ti
   1. Clone the repo
   2. Install dependencies: `npm install`
   3. Deploy contract on Flare Coston2 using MetaMask
-  4. Interact with the contract via Remix or your frontend
+  4. Interact with the contract via Remix
 
 - **Smart Contracts:**
   - VeriFastMortgage.sol
