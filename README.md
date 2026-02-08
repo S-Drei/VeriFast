@@ -1,8 +1,12 @@
 # VeriFast
 
+![0208 (1)(1)-Cover](https://github.com/user-attachments/assets/2b68ee50-9562-4329-aa13-76f44c7d5cd8)
+
+
 VeriFast is a Flare-powered loan verification system designed to drastically reduce mortgage approval times by automating real-world data verification.
 
 ## Problem
+
 
 Mortgage loan applications often take weeks or even months to process. 
 The delays aren’t due to complex transactions — they are caused by repeated manual verification:
