@@ -69,7 +69,7 @@ Smart contracts and integrations are represented at a conceptual level due to ti
 
 - **Smart Contracts:**
   - VeriFastMortgage.sol
-  - Deployed Contract Address: 0xYourContractAddress
+  - Deployed Contract Address: 0x7EB9Dee8b0A68D7b9Ec90DbBC9F6Ae66754f21cC
   - Explorer link: [Coston2 Explorer](https://explorer.coston2.flare.network/address/0xYourContractAddress)
 
 
