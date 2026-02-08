@@ -80,6 +80,16 @@ To deploy and interact with the contracts, create a `.env` file based on `.env.e
 - `RPC_URL` — The URL of the Flare Coston2 Testnet RPC.
 
 
+-
+## Feedback
+This is my first ever hackathon.
+
+To be honest I didn't think I would actually make something out of an idea but I had discovered "Vibe Coding".
+
+Building on Flare, the Developer Hub is very useful in understanding the basics of deploying a smart contract. And then with vibe coding, you can implement your ideas with it and I used Flare's Data Connector.
+
+Philippians 4:13
+
 ---
 
 Built for the ETH Oxford Hackathon.
