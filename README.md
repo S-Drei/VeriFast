@@ -55,6 +55,15 @@ Smart contracts and integrations are represented at a conceptual level due to ti
 - Automated compliance verification
 - Role-based access for banks and lenders
 
+
+## Built on Flare
+
+### Network:
+Flare Testnet Coston2
+
+### Integrations:
+Flare Data Connector FDC
+
 ---
 
 Built for the ETH Oxford Hackathon.
